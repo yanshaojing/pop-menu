@@ -1,0 +1,23 @@
+{
+  "name": "pop-menu",
+  "version": "1.0.0",
+  "description": "CSS3弹出菜单",
+  "main": "src/pop-menu.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanshaojing/pop-menu.git"
+  },
+  "keywords": [
+    "CSS3",
+    "Menu"
+  ],
+  "author": "shaojing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanshaojing/pop-menu/issues"
+  },
+  "homepage": "https://github.com/yanshaojing/pop-menu#readme"
+}
